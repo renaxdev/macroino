@@ -20,7 +20,7 @@ or
 ARDUINO                                 CLIENT-SCRIPT
 Button not pressed > Sends 0 via Serial > Catches the 0,decode it and do nothing
 
-### How to set own macros?
+## How to set own macros?
 You have to change this line: `keyboard.press_and_release('strg+v')` in the client script.
 You just have to change the string in the round brackets to your shortcut
 
@@ -30,6 +30,6 @@ For example:
 `keyboard.press_and_release('enter')` - Press enter
 and so on...
 
-### Contact
+## Contact
 If you need help or want to know something, feel free to write me an email on renaxdev@outlook.de or on discord to Renax#6191
 
