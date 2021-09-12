@@ -1,5 +1,5 @@
 # MacroIno: Arduino meets Python
-
+![](https://media.discordapp.net/attachments/871661927485542403/886613605406109696/Neues_Projekt1.png?width=1440&height=480)
 MacroIno is an open-source project which allows users to interact with their PC and set macros.
 
 MacroIno needs an Arduino(/-based) board and the `macroino_client.py` script which should run on the PC
